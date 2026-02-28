@@ -1,6 +1,6 @@
 </p>
 
-### Olá 👋, Eu sou [Gilbert Martins](https://github.com/GilbertsMartins)
+### Olá 👋, Eu sou Gilbert.
 
 <a href="https://www.linkedin.com/in/gilbert-martins/">
   <img align="left" alt="Gilbert's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

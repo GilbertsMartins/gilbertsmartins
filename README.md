@@ -23,7 +23,7 @@
 
 📄 Meu background em suporte técnico permitiu ampliar uma visão prática do negócio, empatia com o utilizador final e capacidade para lidar com expectativas, conflitos e prioridades, garantindo o alinhamento entre dados, estratégia e execução.
 
-🤝 Busco minha primeira oportunidade na área de dados como júnior, onde possa aplicar minhas habilidades técnicas e analíticas diretamente ao negócio, assim apoiando decisões orientadas por dados.
+🤝 Busco uma oportunidade na área de dados como júnior, onde possa aplicar minhas habilidades técnicas e analíticas diretamente ao negócio, assim apoiando decisões orientadas por dados.
 
 👨‍💻 Competências técnicas: <br />• Python (Pandas, NumPy)
 <br />• SQL • Análise Exploratória de Dados (EDA)

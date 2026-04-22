@@ -45,7 +45,4 @@
 </summary>
 
 <br />
-
-🚗 [Vehicles-Dashboard](https://github.com/GilbertsMartins/Project-vehicles-dashboard)<br />
-<img width="20" height="25" alt="image" src="https://github.com/user-attachments/assets/9d1818d2-40fc-4cee-a2f8-a81a0fdfe872" />
-[ICE-Store](https://github.com/GilbertsMartins/ICE-Store)
+[Call_Center_Operations](https://github.com/GilbertsMartins/call_center_operations)
